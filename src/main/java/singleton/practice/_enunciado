@@ -1,0 +1,9 @@
+*-LOGGER-*
+
+Ventas/Compras
+
+Se tiene una aplicacion de se registran Productos, Clientes
+,Facturas y Promosiones (2 metodos), estas operaciones
+deben logger todo lo que realizan en un archivo con extencion TXT
+
+Logger - Singleton

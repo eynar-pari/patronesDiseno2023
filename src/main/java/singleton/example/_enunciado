@@ -1,0 +1,16 @@
+1) dado que tengo una cuenta bancaria y poseo la capacidad
+de extraer dinero de 3 formas diferentes
+ - Sucursal
+ - Cajero
+ - WebApp
+
+ * Tengo como saldo inicial 1000
+
+ - Sucursal 100
+ - Cajero 200
+ - WebApp 300
+ - Client - nombre/tipoCuenta
+
+ -- 600  ---> Saldo 400
+
+ ** Todo al mismo tiempo

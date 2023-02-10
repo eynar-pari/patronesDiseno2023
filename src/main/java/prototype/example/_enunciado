@@ -1,0 +1,18 @@
+Dado que se tiene un partido de futbol en el stadium Hernando Siles, se decide
+poner a la venta muchas entradas, donde las entradas tienes los siguientes datos
+
+Entrada
+- Equipo Local  ---> Equipo (nombre,#jugadores)
+- Equipo Visitante
+- Numero de Asiento
+- Fecha Juego
+- Lugar
+- Stadium (nombre, capacidad)
+- Precio Entrada
+- Persona (nombre,ci)
+
+Se venden  5 entradas a 5 personas
+
+- utilizar el prototype
+
+

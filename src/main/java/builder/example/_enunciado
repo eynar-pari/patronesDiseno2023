@@ -1,0 +1,7 @@
+Se tiene una restaurante donde se sirven Pizzas, y se tiene 3 pizzas predefinidas que estan
+en el menu y son especialidad del lugar, Al ser especialidad los ingredientas estan definidos
+
+Pizza (tipoQueso,tipoMasa,preparacion, tipoCarne, fruta, condimentos)
+Hawaina
+Tradicional
+Carnivora

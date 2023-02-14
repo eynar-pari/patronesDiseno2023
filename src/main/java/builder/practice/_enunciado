@@ -1,0 +1,30 @@
+Se tiene una dispensador de ventas de piezas de computadoras donde el dueño decide
+vender computadoras armadas y les da su respectivo nombre a una computadora con
+caracteristicas especificas
+
+Computadoras : monitor, teclado, mouse, memoria, procesador, video
+
+* I9-Alto
+  monitor: 45
+  teclado: luminos
+  mouse: gamer
+  memoria: 32gb
+  procesador: i9
+  video:16
+
+* I7-Medio
+  monitor: 32
+  teclado: luminos
+  mouse: luminos
+  memoria: 16gb
+  procesador: i7
+  video:8
+
+* I5-Bajo
+
+  monitor: 24
+  teclado: normal
+  mouse: normal
+  memoria: 8gb
+  procesador: i5
+  video:4

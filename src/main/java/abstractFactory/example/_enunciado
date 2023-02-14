@@ -1,0 +1,17 @@
+un desarrollador necesita implementar codigo para crear un sistema, dependiendo
+la necesidad el puede cambiar de IDE de desarrollo  facilmente, ya que los microservicios
+que esta implementando estan en diferentes lenguajes de programacion.
+
+manejar la logica de los IDEs con un abstract factory
+
+IDE ----> IProduct
+
+IntelliJ --> scala -----> ConcreteProductA
+VSCode --> typescript -----> ConcreteProductB
+Eclipse --> java -----> ConcreteProductC
+VisualStudio --> c# -----> ConcreteProductD
+
+clone()
+code()
+debug()
+build()

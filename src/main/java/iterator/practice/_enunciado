@@ -1,0 +1,13 @@
+Se tienen 3 importadoras de vehiculos/automoviles
+
+ - id
+ - costo
+ - modelo
+ - #asientos
+ - tipo
+
+ * Suzuki ---> Vector
+ * Toyota ---> Stack
+ * Quantum ---> List
+
+ guardar todos los automoviles en un objeto map --> Aduana

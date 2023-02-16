@@ -1,0 +1,8 @@
+contexto
+
+input = 1 + 2 + 3 - 4 - 2 + 2 ---> non expresion
+output = 2
+
+terminal expression ->   +
+terminal expression ->   -
+terminal expression ->   numerico

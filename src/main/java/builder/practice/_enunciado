@@ -2,7 +2,7 @@ Se tiene una dispensador de ventas de piezas de computadoras donde el dueño dec
 vender computadoras armadas y les da su respectivo nombre a una computadora con
 caracteristicas especificas
 
-Computadoras : monitor, teclado, mouse, memoria, procesador, video
+Computadoras : monitor, teclado, mouse, memoria, procesador, video ------> Product
 
 * I9-Alto
   monitor: 45

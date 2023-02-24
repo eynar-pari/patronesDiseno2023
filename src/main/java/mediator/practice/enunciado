@@ -1,0 +1,13 @@
+Se tiene un canal de comunicacion que se llama SKYPE, este canal de
+comunicacion es empresarial donde existen QA (name,ci,grado), DEV(name, ci, lenguaje), SM (name,ci,certificaciones)
+cuando un QA envia un mensaje envia a todos los QA registrados
+cuando un SM envia un mensaje envia a todos los que estan registrados
+esto quiere decir que se envia a QA / DEV / SM
+cuando un DEV envia un mensage envia a todos los DEV
+
+-nota asegurarse que la persona que envia el mensage no reciba
+su propio mensaje
+
+- se debe utilizar Map
+
+agregar minimamente 3 DEV, 3 QA y 3 SM al chat

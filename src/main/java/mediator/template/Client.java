@@ -7,6 +7,7 @@ public class Client {
         ConcreteMediator whatsapp = new ConcreteMediator();
         ConcreteColleagueA eynar = new ConcreteColleagueA(whatsapp);
         ConcreteColleagueB alexis = new ConcreteColleagueB(whatsapp);
+
         whatsapp.setColleagueA(eynar);
         whatsapp.setColleagueB(alexis);
 

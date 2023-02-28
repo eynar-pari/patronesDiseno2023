@@ -1,0 +1,15 @@
+Se tiene una base de datos donde se van agregando Personas (name, ci, edad),
+a medida que va creciendo la base de datos se van sacando
+Backups que tiene como nombre un Alias (i.e BackupMarzo, BackupMayo),
+cuando ya se tiene 5 Backups se desea restaurar
+el segundo backup y mostrar las personas que tenía en dicha versión
+
+enero 5P <---backupenero
+febrero 10p
+marzo 20p
+abril 25p
+mayo 50p
+
+-----------
+restore --- backupenero
+

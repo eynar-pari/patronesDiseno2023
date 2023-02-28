@@ -1,0 +1,10 @@
+Se tiene un flujo de responsables para manejar los diferentes
+errores/problemas que tienes los cliente, el cliente reporta
+una falla en la aplicacion que esta comprando
+
+la falla (titulo, severidad, descripcion)reportada cumple un flujo
+
+cuando la severidad es CRITICA el encargado de resolverlo es el DEV
+cuando la severidad es ALTA el encargado de revisarlo es el QA
+cuando la severidad es MEDIA el encardado de revisarlo es el PO
+cuando la severidad es BAJA el equipo de soporte evalua y revisa la falla

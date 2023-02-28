@@ -1,0 +1,18 @@
+Prestamos
+---------
+
+Se tiene una persona (ci,name,age) que requiere sacar un prestamo de un banco,
+este banco tiene una politica para poder realizar prestamos
+
+si el prestamos es menor a  7000$ el asesor de prestamos es el encargado de
+aprobar dicho prestamo, si la cantidad esta entre 7000 y 14000$ el encargado de aprobar
+es el director de prestamos, si la cantidad es mayor de 14000 - 40000$ el encargado
+de aprobar este prestamo es el gerente de la sucursal, si el prestamo es superior
+a los 40000$ el encargado de aprobar es el presidente del banco
+
+persona --> criterio
+asesor        --> concrete handler
+director        --> concrete handler
+gerente        --> concrete handler
+presidente        --> concrete handler
+banco ---> concrete handler ---> Manager

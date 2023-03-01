@@ -1,0 +1,23 @@
+Juego
+-----
+
+Se tiene un personaje de un juego de peleas, donde el personaje
+puede saltar, correr, golpear, protegerse y curarse, cuando este
+personaje sube de nivel el jugador puede personalizar estas acciones
+para no tener que realizar combinacion de forma rapida.
+
+se tiene un generador de acciones que puede combinar las acciones del personaje
+
+nivel 1) correr
+
+nivel 2) necesita crear un nuevo commando donde tiene que
+    protegerse y curarse al mismo tiempo --> accion regeneracion
+
+nivel 3) necesita crear un nuevo comando donde tiene que
+    saltas, correr, golpear --> accion atacar
+
+nivel 4 ) necesita crear un nuevo comando donde tiene que realizar estas acciones
+
+   correr > saltar> correr > saltar > protergerse >golpear > curar > correr --> contraAtaqu
+
+

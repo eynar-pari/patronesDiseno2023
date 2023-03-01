@@ -1,0 +1,15 @@
+Se tiene un IDE de desarrollo (IntelliJ IDEA) que cada vez que realiza
+el buildeo de un programa lo que ejecuta por debajo son las siguientes
+operaciones:
+
+operacion 1 : el limpiado de la carpeta build
+operacion 2 : se ejecutan todas las pruebas de unidad
+operacion 3 : se realiza un compilado de estandarizacion
+de codigo
+operacion 4 : se genera nuestro build (JAR)
+
+lo que requiere es generar el comando makeBuild
+
+makebuild --> invoker
+operacion 1-4 ---> 4 concrete commands
+ide --> receiver

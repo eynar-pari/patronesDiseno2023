@@ -1,0 +1,14 @@
+Se tiene una compañia telefonica que tiene muchos clientes, la forma de poder enviar
+propaganda de diferentes actividades de la empresa es mediate notificaciones
+los usuarios eligen que tipo de notificaciones desean recibir
+
+- notificaciones :
+            precios llamadas
+            promosiones
+            premios
+            noticia
+
+- ejemplo: pedro : premios,promosiones
+- ejemplo: maria : noticia
+- ejemplo: eynar : precios llamadas, promosiones,   premios   ,noticia
+

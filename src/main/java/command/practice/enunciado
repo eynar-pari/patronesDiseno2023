@@ -20,4 +20,7 @@ nivel 4 ) necesita crear un nuevo comando donde tiene que realizar estas accione
 
    correr > saltar> correr > saltar > protergerse >golpear > curar > correr --> contraAtaqu
 
-
+Concrete Command --> Saltar / Correr/ Golpear / Proterger / Curar
+ICommand --> IAction
+Invoker   --> ActionCreator
+Receiver  --> Personaje

@@ -1,0 +1,22 @@
+Se tiene un computadora donde este sufre cambios en su comportamiendo en
+sus accesorios internos dependiendo al estado donde se encuentra,
+
+cuando la computadora esta prendida y minando criptos (la targeta de video
+empieza a utilizarze y a incrementar en un 5% por cada 5 segundos),
+
+cuando la computadora esta prendida y se empieza navegar usando el programa Chrome (
+la memoria ram empieza a ser utilizada en un porcetaje randomico y puede llegar
+al 100%)
+
+y cuando la computadora esta apagada todos los accesorios/recursos no se utilizan
+y estos tienen un valor de 0%
+
+--- analizando --
+Contexto  ---> Computadora
+IState  ---> IStateComputadora
+ConcreteState ---> PrendidoMinando / PrendidoPrograma / Apagado
+
+Class targetaVideo (capcidadTotal,capacidad utilizada,des)
+Class memoriaRam (capacidad Total, capacidad utiliza,des)
+
+

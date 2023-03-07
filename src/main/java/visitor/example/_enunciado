@@ -1,0 +1,10 @@
+Se tiene una familia de animales que estan en distintos lugares
+se tiene un Caballo, Gato, Perro cada uno de ellos neceestia un
+tratamiento especial. para eso de decide que un veterinario visita a
+cada uno de estos animales para realizar el tratamiento correspondiente
+
+
+IVisitor ---> Medico
+Concrete Visitor ---> Veterinario
+IElement -> IAnimal
+ConcreteElement -> Gato, Caballo , Perrito

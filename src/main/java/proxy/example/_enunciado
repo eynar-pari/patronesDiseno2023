@@ -1,0 +1,11 @@
+
+Se tiene un servidor de archivos (File Server) donde se guardan diferentes
+tipos de archivos (pdf,word,excel), el servidor solamente
+tiene la capacidad de guardar archivos PDF si el archivo es otra extencion
+se muestra un mensaje pidiendo la extencion correcta.
+
+FileServer ---- Real Subject***
+FileServerP ----> Proxy  >>>
+IServer ----> ISubject
+Archivo --- concrete object
+

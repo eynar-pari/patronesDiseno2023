@@ -1,0 +1,6 @@
+Se tiene un empresa que desarrolla aplicaciones móviles para Android,
+IOS y WindowsPhone cuando se va desarrollando dichas aplicaciones estos
+generalmente tienen los métodos de login, logout, reportes. Esta empresa compra otra
+empresa que desarrolla aplicaciones Web y de Escritorio estas aplicaciones
+generalmente tienen los métodos de iniciar sesión, cerrar sesión y generación de
+datos,se desea adaptar las aplicaciones móviles de la empresa1 a la empresa2.

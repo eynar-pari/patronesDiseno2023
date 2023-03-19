@@ -1,0 +1,16 @@
+Se tienen  IDEs de desarrollo como ser Eclipse, IntelliJ, VSCode nos sirven para
+desarrollar (compila/builds)
+
+entonces una empresa inicia a implementar funcionalidad adicional
+llamada plugins para estos Ides
+
+los plugins son
+
+unitTest ---> genera ejecuta unit test
+debug ---> mejora el debug de nuestro ide
+deployAutoDocker ---> genera imagenes para docker
+
+Component ---- IDE
+  Concrete Component ---> Eclipse, intellij , VSCode
+  Decorator  ---> Plugins
+     ConcreteComponent ---> unitTest/  debug / deployAutoDocker

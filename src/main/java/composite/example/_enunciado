@@ -1,0 +1,15 @@
+Se desea implementar un administrador de tareas de metodologias agiles (parecido a trello)
+los objetos/entidades que existen se basan en la agrupacion de nuevos objetops
+
+titulo
+descripcion
+prioridad
+estimacion
+owner
+
+tarea > user story (agrupacion tareas) > feature > epic
+
+
+Component ---> Component
+Composite ---> Entity
+Leaf ---> Task
